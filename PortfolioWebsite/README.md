@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
   # Portfolio Website
 
@@ -10,6 +9,3 @@
 
   Run `npm run dev` to start the development server.
   
-=======
-# Shahad-s-Portfolio
->>>>>>> f59790bbe562a11fd0b05c2c84d0392bbee6ba0c
